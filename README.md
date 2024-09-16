@@ -14,10 +14,6 @@ To get started on your owncertification, visti here: <a href="https://www.freeco
 https://www.freecodecamp.org/</a>
 </span>
 
-<p align="center">
-<img src="https://i.ibb.co/1G19TKD/New-Responsive-Web-Design-Certification.png" alt="certificate">
-</p>
-
 <h2>
 How It's Made:
 </h2>
